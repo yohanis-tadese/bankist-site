@@ -24,16 +24,6 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 
 This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration functionality. Make sure to use usernames are lowercase!
 
-#### Account One
-
-- Login: ww
-- Password: 1111
-
-#### Account Two
-
-- Login: jp
-- Password: 2222
-
 ## Technologies Used
 
 - HTML
