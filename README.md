@@ -1,6 +1,4 @@
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview.png?raw=true" ></img>
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview-2.png?raw=true" ></img>
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview-3.png?raw=true" ></img>
+[<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview.png?raw=true" ></img>](https://github.com/yohanis-tadese/bankist-site/blob/main/img/photo_2024-05-29_08-02-26.jpg)
 
 # Bankist
 
