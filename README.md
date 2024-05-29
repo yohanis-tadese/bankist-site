@@ -42,4 +42,4 @@ This is the template login details to use the bank functionality. The project do
 
 ## Contribution
 
-This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/bankist/discussions). Otherwise, you are free to fork this project and change it for your own purposes.
+This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea Otherwise, you are free to fork this project and change it for your own purposes.
